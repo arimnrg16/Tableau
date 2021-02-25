@@ -11,4 +11,4 @@ airport dalam satu tahun untuk melihat kondisi kesibukan dari airport tersebut
 dalam 1 tahun, serta 3. Memvisualisasikan airport mana yang menjadi pilihan destination airport terbesar
 
 
-![Poster](https://github.com/arimnrg16/PSI-02/blob/master/Screenshots/Screenshot%20(97).png)
+![Poster](https://github.com/arimnrg16/Tableau/blob/main/PST-VISDAT-GSL-1920-GGvoldemort.png)
