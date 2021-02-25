@@ -2,11 +2,11 @@ Adapun data yang akan divisualisasikan yaitu Flight Delays and Cancellations 201
 
 ## Proyek ini memiliki beberapa tujuan antara lain :
 
-* 1. Memvisualisasikan persentase jumlah penerbangan yang dilakukan oleh tiap maskapai 
+* Memvisualisasikan persentase jumlah penerbangan yang dilakukan oleh tiap maskapai 
 dalam 1 tahun berdasarkan data schedule departure untuk melihat maskapai mana yang paling banyak digunakan 
 oleh penumpang dalam periode 1 tahun,
 
-* 2. Menampilkan persentase  total penerbangan yang dilakukan setiap 
+* Menampilkan persentase  total penerbangan yang dilakukan setiap 
 airport dalam satu tahun untuk melihat kondisi kesibukan dari airport tersebut 
 dalam 1 tahun, serta 3. Memvisualisasikan airport mana yang menjadi pilihan destination airport terbesar
 
